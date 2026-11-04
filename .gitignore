@@ -1,0 +1,12 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+*.db
+uploads/*
+.DS_Store
+
+test_gpt.py
+test_ollama.py
+
